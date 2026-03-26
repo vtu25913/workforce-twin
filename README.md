@@ -2,7 +2,7 @@
 
 A **full-stack web application** that builds a **digital twin of your workforce** — simulating how employees respond to organisational change *before* it happens. Built with Python (Flask), synthetic datasets, and a premium web dashboard.
 
-🔗 **Live App**: [https://workforce-twin-production.up.railway.app/](https://workforce-twin-production.up.railway.app/)
+🔗 **Live App**: [https://web-production-f848b.up.railway.app/](https://web-production-f848b.up.railway.app/)
 📂 **GitHub Repo**: [https://github.com/Yamini-Bathini/workforce-twin](https://github.com/Yamini-Bathini/workforce-twin)
 
 ---
